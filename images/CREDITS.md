@@ -1,0 +1,33 @@
+# Bildekreditering (Wikimedia Commons)
+Frie bilder (CC / public domain). Attribusjon under. Bytt gjerne enkeltbilder.
+- **00-hero-mara-sunset.jpg** — (allerede nedlastet; mangler kreditering — kjør metadata-pass)
+- **00-family-safari-jeep.jpg** — (allerede nedlastet; mangler kreditering — kjør metadata-pass)
+- **01-nairobi-giraffe-centre.jpg** — (allerede nedlastet; mangler kreditering — kjør metadata-pass)
+- **01-nairobi-skyline-park.jpg** — (allerede nedlastet; mangler kreditering — kjør metadata-pass)
+- **01-baby-elephant.jpg** — (allerede nedlastet; mangler kreditering — kjør metadata-pass)
+- **02-hellsgate-cycling.jpg** — kun 960px, litt lav oppløsning for stort trykk.
+- **02-hellsgate-gorge.jpg** — (allerede nedlastet; mangler kreditering — kjør metadata-pass)
+- **02-naivasha-boat-hippo.jpg** — (allerede nedlastet; mangler kreditering — kjør metadata-pass)
+- **03-nakuru-rhino.jpg** — (allerede nedlastet; mangler kreditering — kjør metadata-pass)
+- **03-nakuru-flamingos.jpg** — (allerede nedlastet; mangler kreditering — kjør metadata-pass)
+- **04-mara-lions.jpg** — (allerede nedlastet; mangler kreditering — kjør metadata-pass)
+- **04-mara-balloon.jpg** — (allerede nedlastet; mangler kreditering — kjør metadata-pass)
+- **04-maasai-village.jpg** — (allerede nedlastet; mangler kreditering — kjør metadata-pass)
+- **04-mara-elephants-plain.jpg** — (allerede nedlastet; mangler kreditering — kjør metadata-pass)
+- **05-sgr-train.jpg** — kun 960px, «passasjerer går av»-motiv, ikke tog i landskap.
+- **06-salt-lick-lodge.jpg** — (allerede nedlastet; mangler kreditering — kjør metadata-pass)
+- **06-tsavo-red-elephant.jpg** — (allerede nedlastet; mangler kreditering — kjør metadata-pass)
+- **07-diani-beach.jpg** — motivet er en syklist på stranda, ikke den klassiske
+- **07-dolphins-snorkel.jpg** — (allerede nedlastet; mangler kreditering — kjør metadata-pass)
+- **07-colobus-monkey.jpg** — (allerede nedlastet; mangler kreditering — kjør metadata-pass)
+- **08-sunset-silhouette.jpg** — (allerede nedlastet; mangler kreditering — kjør metadata-pass)
+- **10-carnivore-nyama-choma.jpg** — File:The Carnivore Restaurant 03.jpg · CC BY 4.0 · Ferfive · https://commons.wikimedia.org/wiki/File:The_Carnivore_Restaurant_03.jpg
+- **10-mama-oliech-tilapia.jpg** — File:Fried Tilapia, Ugali, Sukuma Wiki and Kachumbari (From Kisumu).JPG · CC BY-SA 4.0 · Napendakukula · https://commons.wikimedia.org/wiki/File:Fried_Tilapia,_Ugali,_Sukuma_Wiki_and_Kachumbari_(From_Kisumu).JPG
+- **10-talisman-restaurant.jpg** — File:Crème brûlée at Babette's Fine Dining Restaurant.jpg · CC BY-SA 4.0 · Sdkb · https://commons.wikimedia.org/wiki/File:Cr%C3%A8me_br%C3%BBl%C3%A9e_at_Babette%27s_Fine_Dining_Restaurant.jpg
+- **10-nairobi-street-kitchen.jpg** — File:Wikimania 2025, Kenya Nairobi 28.jpg · CC BY-SA 4.0 · Slippery slope302 · https://commons.wikimedia.org/wiki/File:Wikimania_2025,_Kenya_Nairobi_28.jpg
+- **11-maasai-market.jpg** — File:Nairobi Maasai Market stand.jpg · CC BY-SA 4.0 · Sdkb · https://commons.wikimedia.org/wiki/File:Nairobi_Maasai_Market_stand.jpg
+- **11-matatu.jpg** — File:A colorful matatu in Nairobi, Kenya, during rush hour.jpg · CC BY 4.0 · AEira-WMF · https://commons.wikimedia.org/wiki/File:A_colorful_matatu_in_Nairobi,_Kenya,_during_rush_hour.jpg
+- **12-bomas-of-kenya.jpg** — File:Bomas of Kenya, Nairobi (54078773523).jpg · CC BY 2.0 · Ninara · https://commons.wikimedia.org/wiki/File:Bomas_of_Kenya,_Nairobi_(54078773523).jpg
+- **13-watamu-beach.jpg** — File:Watamu Beach, Kenya 01.jpg · CC BY-SA 4.0 · Jenny Kellett · https://commons.wikimedia.org/wiki/File:Watamu_Beach,_Kenya_01.jpg
+- **13-watamu-turtle.jpg** — File:Hatchling Green Turtle (Chelonia mydas) (6161271899).jpg · CC BY 2.0 · Thomas Brown · https://commons.wikimedia.org/wiki/File:Hatchling_Green_Turtle_(Chelonia_mydas)_(6161271899).jpg
+- **13-gede-ruins.jpg** — File:Great Mosque of Gede.jpg · CC BY-SA 3.0 · Mgiganteus · https://commons.wikimedia.org/wiki/File:Great_Mosque_of_Gede.jpg
