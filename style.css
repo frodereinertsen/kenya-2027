@@ -140,6 +140,21 @@ section { padding: clamp(48px, 8vw, 96px) 0; }
 
 /* ---------- Phase blocks ---------- */
 .phases { background: var(--white); }
+.baseband {
+  text-align: center;
+  max-width: 760px;
+  margin: 0 auto clamp(30px, 5vw, 54px);
+}
+.baseband .eyebrow { color: var(--savanna); }
+.baseband h2 { font-size: clamp(1.7rem, 4vw, 2.5rem); color: var(--earth-dark); font-weight: 800; margin-bottom: 0.6rem; }
+.baseband p { color: var(--ink-soft); font-size: 1.08rem; }
+.baseband .stay {
+  display: inline-block; margin-top: 1rem;
+  font-family: "Helvetica Neue", sans-serif; font-weight: 700; font-size: 0.9rem;
+  color: var(--earth); background: #f2e7d2; border: 1px solid #e2d0ab;
+  padding: 7px 18px; border-radius: 999px;
+}
+.hr-sea { height: 3px; border: 0; background: linear-gradient(90deg, transparent, var(--acacia), transparent); margin: clamp(40px,7vw,80px) 0; }
 .phase {
   display: grid;
   grid-template-columns: 1fr 1fr;
