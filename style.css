@@ -233,6 +233,35 @@ section { padding: clamp(48px, 8vw, 96px) 0; }
 .card__body h4 { font-family: "Helvetica Neue", sans-serif; font-size: 1.15rem; color: var(--white); margin-bottom: 0.4rem; }
 .card__body p { font-size: 0.98rem; color: rgba(244,237,225,0.82); }
 
+/* ---------- Food & culture ---------- */
+.foodgrid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 18px; }
+.foodcard {
+  background: var(--white);
+  border: 1px solid var(--sand-dark);
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: var(--shadow);
+}
+.foodcard img { width: 100%; height: 190px; object-fit: cover; display: block; }
+.foodcard figcaption { padding: 14px 16px 18px; font-size: 0.98rem; color: var(--ink-soft); }
+.foodcard figcaption strong { color: var(--earth-dark); }
+
+/* ---------- Know before you go ---------- */
+.know { background: var(--sand-dark); }
+.know .intro { margin-bottom: 2.4rem; }
+.know .intro h2 { color: var(--earth-dark); }
+.knowgrid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 18px; max-width: 900px; margin: 0 auto; }
+.knowcard {
+  background: var(--white);
+  border-radius: var(--radius);
+  padding: 22px 24px;
+  box-shadow: var(--shadow);
+  border-top: 4px solid var(--acacia);
+}
+.knowcard h4 { font-family: "Helvetica Neue", sans-serif; color: var(--earth-dark); font-size: 1.12rem; margin-bottom: 0.5rem; }
+.knowcard p { color: var(--ink-soft); font-size: 1rem; }
+.knowcard.warn { border-top-color: var(--leaf); }
+
 /* ---------- Gallery ---------- */
 .gallery { columns: 3; column-gap: 14px; }
 .gallery img {
@@ -282,6 +311,8 @@ footer a { color: var(--savanna); text-decoration: none; }
   .phase { grid-template-columns: 1fr; }
   .phase:nth-child(even) .phase__media { order: 0; }
   .grid3 { grid-template-columns: 1fr; }
+  .foodgrid { grid-template-columns: 1fr 1fr; }
+  .knowgrid { grid-template-columns: 1fr; }
   .gallery { columns: 2; }
 }
 
